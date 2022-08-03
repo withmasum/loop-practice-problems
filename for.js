@@ -1,4 +1,4 @@
-var roatGiven = 0;
+/* var roatGiven = 0;
 while (roastGiven < 7) {
     console.log('Roast Den, Please!!')
     roastGiven++;
@@ -10,11 +10,32 @@ while (roastGiven < 7) {
 for (var roastGiven = 0; roastGiven < 7; roastGiven++) {
     console.log('Roast Den, Please !!!');
 }
-
+ */
 
 // For Loop more simplified 
 // Simple or usual version 
-console.log('simple for loop');
+/* console.log('simple for loop');
 for (var i = 0; i < 7; i++) {
     console.log(i);
 }
+
+ */
+
+
+/* for (var i = 0; i < 10; i++) {
+
+    console.log(i);
+} */
+
+// i = i +2 
+// i += 2; 
+for (var i = 0; i <= 10; i += 2) {
+
+    console.log(i)
+}
+
+
+for (var i = 1; i <= 10; i += 2) {
+
+    console.log(i)
+} 
